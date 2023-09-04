@@ -1,7 +1,7 @@
 # 如何渐进学习 JavaScript
 
-## 1. 学习 w3school 的 js 教程
-[JavaScript 教程](https://www.w3school.com.cn/js/index.asp)
+## 1. 学习 网道的[JavaScript 教程](https://wangdoc.com/javascript/)
+
 
 
 ## 2. 读一本系统介绍 js 的书
@@ -21,3 +21,5 @@
 ### 刷 `leetcode`
 
 ## 6. 阅读经典书籍
+
+### 6.1 网道的 [ES6 教程](https://wangdoc.com/es6/)
